@@ -92,7 +92,6 @@ public class LibraryApp {
                     selection = 4;
                     System.out.println("Exit");
                     display = true;
-                    displayHomeScreen();
 
                     System.out.println("Thanks, come again");
 
